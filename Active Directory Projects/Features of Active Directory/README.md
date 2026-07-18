@@ -12,4 +12,18 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
  All the domains belongs to thesame Tree.
 
  
-2) **Tree** : is a collection ofdomains sharing a contigous namespace
+2) **Tree** : is a collection of domains sharing a contigous namespace
+   eg STEVEWOTANI.LAN
+   +--SALE.STEVEWOTANI.LAN  
+   +--IT.STEVEWOTANI.LAN  
+   +--HR.STEVEWOTANI.LAN
+   This Domains form a Tree Because they share thesame DNS namespace
+   
+4) **Domains in Active Directory** :A domain is a logical grouping of of objects within active directory  
+     Domains Contain :
+   🔹Users  
+   🔹Computers  
+   🔹Groups  
+   🔹Organisational Units   
+   🔹policies
+   
