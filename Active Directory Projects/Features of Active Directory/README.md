@@ -42,5 +42,24 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
    +--Finance  
    +--HR  
    +--Finance  
-   +--SALES  
+   +--SALES
+5) **SITES in Active Directory** :
+   Sites Represent the Physical Network Topology
+   **purpose of sites**  
+   -Opptimize Replication traffic  
+   -Improve Authentication Performance  
+   -Control Domain Controller Usage
+   e.g
+   -Head Office Site  
+   -Branch Office Site
    
+6)**Active Directory SCHEMA** 
+   The Schema describes the Structure of the Active Directory Database    
+   It defines:   
+   -Object Types(users,computers,group)    
+   -Attribute of Objects  
+   -Rules of Object Creation  
+
+   6)**Global Catalog** : The global controller is a special role assigned to the domain controller
+   
+    
