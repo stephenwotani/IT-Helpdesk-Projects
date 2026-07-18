@@ -65,7 +65,8 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
    -Stores partial attributes of all objects in the forest  
    -Enables Forest wide searches  
    -supports user login authentication  
-   -Resolve Universal group membership.  
+   -Resolve Universal group membership.    
+   
   7) **Domaain Controller)**: A  domain controlleris a server running active directory domain services  
    Responsibillites:  
    -Authenticate Users  
