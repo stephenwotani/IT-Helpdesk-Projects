@@ -19,18 +19,28 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
    +--HR.STEVEWOTANI.LAN
    This Domains form a Tree Because they share thesame DNS namespace
    
-4) **Domains in Active Directory** :A domain is a logical grouping of of objects within active directory  
+3) **Domains in Active Directory** :A domain is a logical grouping of of objects within active directory  
      Domains Contain :  
    🔹Users  
    🔹Computers  
    🔹Groups  
    🔹Organisational Units   
-   🔹policies
-     Each domain has:
+   🔹policies  
+     Each domain has:  
   ` -It's own database  
     -It's own domain controller(server)  
      -uses DNS for Name Resolution
     - provides Authentication Services
-     
+ 
+   4)**Organisational UNITS (OU)** : Organisational units allow IT admins to logicaly organise objects within a domain    
     
+    **uses of OU**:   
+   -Departmental Seperations  
+   -Delegation of Administration  
+   -Applying Group Policies  
+   eg.  
+   +--Finance  
+   +--HR  
+   +--Finance  
+   +--SALES  
    
