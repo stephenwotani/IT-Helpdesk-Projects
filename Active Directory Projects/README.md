@@ -1,6 +1,6 @@
 # Hello welocme to my active directory folder where i showcase my skills in any and everything Active Directory related.
 
-WHAT IS ACTIVE DIRECTORY?: Active directory is a microsoft centralized directory used to manage users,computers,securitypolicies and resources accross a network
+**WHAT IS ACTIVE DIRECTORY?**: Active directory is a microsoft centralized directory used to manage users,computers,securitypolicies and resources accross a network
 It is used for the following  
 ✅Centralized identity Management  
 ✅Authentication Services  
