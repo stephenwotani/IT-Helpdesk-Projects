@@ -60,6 +60,19 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
    -Attribute of Objects  
    -Rules of Object Creation  
 
-   6)**Global Catalog** : The global controller is a special role assigned to the domain controller
+   6)**Global Catalog** : The global controller is a special role assigned to the domain controller 
+   purpose:
+   -Stores partial attributes of all objects in the forest  
+   -Enables Forest wide searches  
+   -supports user login authentication  
+   -Resolve Universal group membership.  
+  7) **Domaain Controller(domain servers)**: A  domain controlleris a server running active directory domain services  
+   Responsibillites:  
+   -Authenticate Users  
+   -Stores Active Directory Database  
+   -Replicates Directory data  
+   -Applies Security Policies  
+   -Handles Login Requests  
+  8) 
    
     
