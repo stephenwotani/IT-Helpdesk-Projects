@@ -33,8 +33,6 @@
 <img width="1912" height="1037" alt="Screenshot 2026-07-20 045121" src="https://github.com/user-attachments/assets/8bfe9c16-82b8-4175-bdae-82d27d7cb00d" />
 <img width="1910" height="930" alt="Screenshot 2026-07-20 045349" src="https://github.com/user-attachments/assets/94c8b643-8ce4-4252-847a-bb2eb1057f46" />
 <img width="1917" height="1078" alt="Screenshot 2026-07-20 045900" src="https://github.com/user-attachments/assets/409635a9-ad38-4027-8355-86e573e58ea0" />
-<img width="1916" height="962" alt="successdull connection to local DNS server" src="https://github.com/user-attachments/assets/d3d855de-10f6-4ea3-af03-686e35fa5676" />
-![Uploading running server enviroment.png…]()
 
 
 
