@@ -10,4 +10,4 @@
     
   
     **  creating Organisation Units In Active Directory**:  
-    
+    <img width="1327" height="742" alt="new OU" src="https://github.com/user-attachments/assets/9dec1b54-1e48-45fd-9c7a-a223844da9ed" />
