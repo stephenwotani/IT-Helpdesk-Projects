@@ -16,15 +16,15 @@
 **configuring the server Machine** 
 
 -setting up an administrator account and and loging cridentials for the admin account  
--configuring the network settings by issigning  a static IPV4 ip to the server,a subnetmask and a DNS IP  
+-configuring the network settings by assigning  a static IPV4 IP to the server,a subnetmask and a DNS IP  
 -Launching Active Directory in tools   
 -Creating our first Forest and Tree  
 -creating a Domain Name Called WOTANILABS.LAN  
 
-**configuring the client Machine**  
--In the network settings of the client machine an IPV4 is assigned to the machine with thesame Network IP as the server machine  
--A default subnet mask is assigned to the client machine and the default Dns setting IP is same as the Server IP.  
--Adding the client machine from a workgroup to a Domain  
+**configuring the client Machines**  
+-In the network settings of the client machines an IPV4 is assigned to the machines with thesame Network IP as the server machine  
+-A default subnet mask is assigned to the client machine and the default DNS setting IP is same as the Server IP.  
+-Adding the client machines from a workgroup to the domain WOTANI.LAN 
 
 
 **Activities in Pictures**   
