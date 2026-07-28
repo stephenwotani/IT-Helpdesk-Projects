@@ -6,7 +6,7 @@
 2)**Server OS**:  Windows Server 2022    
 
 3)**Client OS**: Windows 10/11 Enterprise 
-**
+
 
 **steps taken to setup my Active Directory Home Lab**   
 1)Installing Oracle Virtual Virtual Box (The Hypervisor)    
@@ -27,7 +27,9 @@
 -Adding the client machine from a workgroup to a Domain  
 
 
-**Activities in Pictures** 
+**Activities in Pictures**   
+
+<img width="1906" height="1030" alt="2 servers and 3 windows 11 clients" src="https://github.com/user-attachments/assets/46951dd7-751b-43bb-8796-81cb2b5c0684" />
 <img width="1917" height="987" alt="running server enviroment" src="https://github.com/user-attachments/assets/641fd6a6-0b4d-47d0-b299-7ebdddc188dd" />
 <img width="1904" height="987" alt="mounting the server" src="https://github.com/user-attachments/assets/65f2b874-1e55-4f42-aa47-51ff71665f51" />
 <img width="1912" height="1037" alt="Screenshot 2026-07-20 045121" src="https://github.com/user-attachments/assets/8bfe9c16-82b8-4175-bdae-82d27d7cb00d" />
