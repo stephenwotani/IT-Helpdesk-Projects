@@ -32,7 +32,7 @@ Activie Directory Stores Objects in a hierachical order. The following are featu
      -uses DNS for Name Resolution
     - provides Authentication Services
  
-   4)**Organisational UNITS (OU)** : Organisational units allow IT admins to logicaly organise objects within a domain    
+   4)**Organisational UNITS (OU)** : Organisational units allow IT admins to logically organise objects within a domain    
     
     **uses of OU**:   
    -Departmental Seperations  
