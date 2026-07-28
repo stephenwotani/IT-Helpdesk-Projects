@@ -9,5 +9,5 @@
     -Better Operational Efficiency
     
   
-    **  creating Organisation Units In Active Directory**:
-    <img width="1920" height="1080" alt="creating new Organisational unit" src="https://github.com/user-attachments/assets/0de94110-ddb7-44fa-a288-a2536b98b1fe" />
+    **  creating Organisation Units In Active Directory**:  
+    https://github.com/stephenwotani/IT-Helpdesk-Projects/blob/666ef3c170c05400be837bb4cc9b653de85d6523/Active%20Directory%20Projects/Images/creating%20new%20OU.png
