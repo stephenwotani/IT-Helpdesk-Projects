@@ -10,4 +10,4 @@
     
   
     **  creating Organisation Units In Active Directory**:  
-    https://github.com/stephenwotani/IT-Helpdesk-Projects/blob/666ef3c170c05400be837bb4cc9b653de85d6523/Active%20Directory%20Projects/Images/creating%20new%20OU.png
+    
