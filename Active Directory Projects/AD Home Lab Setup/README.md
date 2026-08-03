@@ -9,10 +9,11 @@
 
 
 **steps taken to setup my Active Directory Home Lab**   
-1)Installing Oracle Virtual Virtual Box (The Hypervisor)    
-2) Downloading the Microsoft Server 2022 OS ISO file from the official microsoft website  
-3)Downloading the Microsoft windows 11  OS ISO file from the official microsoft website 
-4)Mounting Both the Server and Client ISO files on the Oracle Virtual Box  
+1)I Installed the Oracle Virtual Virtual Box (The Hypervisor)    
+2) I Downloaded the Microsoft Server 2022 OS ISO file from the official microsoft website  
+3)I Downloaded the Microsoft windows 11  OS ISO file from the official microsoft website 
+4)Mounted Both the Server and Client ISO files on the Oracle Virtual Box  
+5) Created client clones of the client machine with different MAC addresses but on the same network
 **configuring the server Machine** 
 
 -setting up an administrator account and and loging cridentials for the admin account  
@@ -22,7 +23,7 @@
 -creating a Domain Name Called WOTANILABS.LAN  
 
 **configuring the client Machines**  
--In the network settings of the client machines an IPV4 is assigned to the machines with thesame Network IP as the server machine  
+-In the network settings of the client machines an IPV4 i assigned to the machines with thesame Network IP as the server machine  
 -A default subnet mask is assigned to the client machine and the default DNS setting IP is same as the Server IP.  
 -Adding the client machines from a workgroup to the domain WOTANI.LAN 
 
