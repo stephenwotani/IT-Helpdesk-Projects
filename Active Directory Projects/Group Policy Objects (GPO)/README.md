@@ -24,4 +24,10 @@ Groups Policies are managed using the Active Directory Tool **Group Policy Manag
 <img width="1592" height="857" alt="creating a Computer Settings GPO" src="https://github.com/user-attachments/assets/8173c9e2-75c4-4927-b8db-2f071abdd8a6" />
 
 **Linking an existing  GPO**
+<img width="1595" height="892" alt="linking an existing GPO to the domain " src="https://github.com/user-attachments/assets/0263cf1d-faa7-44ad-89ec-7b265d179553" />
+
+**Linked Domain GPO-Legal Notice In Effect**
+<img width="1910" height="1077" alt="group policy legal warning linked to all domain devices" src="https://github.com/user-attachments/assets/db9ba48b-5257-409b-be50-015b3eb2a6a9" />
+
+<img width="1917" height="1010" alt="applying group policy to domains" src="https://github.com/user-attachments/assets/6ebd60b5-6629-43b4-a9aa-13b95deb1783" />
 
