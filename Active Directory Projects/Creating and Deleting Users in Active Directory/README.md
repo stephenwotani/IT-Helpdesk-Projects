@@ -13,4 +13,10 @@ This is done using the Users and Computers Tool in Active Directory.
 
 
 ## Enforcing newly created users to change their passwords after they login
-<img width="1912" height="985" alt="user must change password" src="https://github.com/user-attachments/assets/b1a325b2-84d8-42af-a997-8ce108254b0c" />
+<img width="1912" height="985" alt="user must change password" src="https://github.com/user-attachments/assets/b1a325b2-84d8-42af-a997-8ce108254b0c" />  
+
+## Deleting a Users in Active Directory  
+To delete a User one has to go to where the user is and right click on the user then select delete  
+<img width="1452" height="805" alt="deleting a user" src="https://github.com/user-attachments/assets/09e7af4e-21ec-4c84-b925-f6b2f7599570" />
+
+
