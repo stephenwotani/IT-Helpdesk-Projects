@@ -31,3 +31,6 @@ Groups Policies are managed using the Active Directory Tool **Group Policy Manag
 
 <img width="1917" height="1010" alt="applying group policy to domains" src="https://github.com/user-attachments/assets/6ebd60b5-6629-43b4-a9aa-13b95deb1783" />
 
+**GPO to Dissable Control Pannel Access To normal users**
+<img width="1267" height="562" alt="controll pannel disabled" src="https://github.com/user-attachments/assets/927e5e8c-d98d-4744-9ecf-c6660aef19da" />
+
