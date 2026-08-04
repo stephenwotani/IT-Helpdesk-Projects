@@ -12,10 +12,11 @@ This can be done in the Active Directory Tool Users and Computers and going to t
 ## Adding a device to the domain
 
 <img width="1912" height="1037" alt="connecting vm to domain" src="https://github.com/user-attachments/assets/adf10e20-7f5f-4ad3-b0d0-cd53c46d84d4" />
-<img width="1917" height="1075" alt="succesfull connection of the client machine to the domain" src="https://github.com/user-attachments/assets/1b0d5057-35b2-419f-ac34-08d386963a92" />
+<img width="1917" height="1075" alt="succesfull connection of the client machine to the domain" src="https://github.com/user-attachments/assets/1b0d5057-35b2-419f-ac34-08d386963a92" />  
 
 
 ## Assigning a User to a Specific Device
 
+<img width="1607" height="901" alt="assigning a user to a specific device" src="https://github.com/user-attachments/assets/07de7097-a1f2-45ea-a07c-21c473c63803" />
 
 
