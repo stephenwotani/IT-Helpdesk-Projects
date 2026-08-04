@@ -14,5 +14,9 @@ eg,
 -Better Policy Control  
 -Better Operational Efficiency.  
 ## Creating New Organisational Unit
-<img width="1920" height="1080" alt="creating new Organisational unit" src="https://github.com/user-attachments/assets/faf4ccea-1add-4fb4-8eb8-0c013f068a35" />
+<img width="1920" height="1080" alt="creating new Organisational unit" src="https://github.com/user-attachments/assets/faf4ccea-1add-4fb4-8eb8-0c013f068a35" />  
+
+## Creating Many Organisational Units Under my Domain WOTANI.LAN
+<img width="1602" height="896" alt="multiple OU under my domain WOTANI LAN" src="https://github.com/user-attachments/assets/a04cd271-88e2-41ae-b9dd-e7512f03a005" />
+
 
