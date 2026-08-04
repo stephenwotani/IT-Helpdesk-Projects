@@ -3,10 +3,10 @@ Creating and Deleting users in active directory is important for on boarding and
 
 This is done using the Users and Computers Tool in Active Directory.
 ## Basic User Management in Active Directory 
--Reset Passwords
--Disable Account
--Enable Account
--Review Properties
+-Reset Passwords  
+-Disable Account  
+-Enable Account  
+-Review Properties  
 
 ## Creating a Users in Active Directory  
 <img width="1876" height="980" alt="creating a new user" src="https://github.com/user-attachments/assets/6b2660ca-5594-401f-9e91-5237a7673efc" />  
